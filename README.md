@@ -1,2 +1,2 @@
-# workshopa
+# workshops
 work hard
